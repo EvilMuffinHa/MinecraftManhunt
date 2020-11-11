@@ -1,0 +1,31 @@
+name: MinecraftManhunt
+version: 1.1.0
+author: EvilMuffinHa
+main: me.EvilMuffinHa.minecraftManhunt.Main
+description: Plugin to play minecraft Manhunt
+
+commands:
+  opengame:
+    aliases: [og]
+    description: Opens the game.
+  join:
+    aliases: []
+    description: Joins the game.
+  start:
+    aliases: []
+    description: Starts the game.
+  view:
+    aliases: []
+    description: Views the players.
+  leave:
+    aliases: []
+    description: Leaves the game.
+  lobby:
+    aliases: []
+    description: Sets a lobby for the game.
+  spectate:
+    aliases: []
+    description: Allows spectators to view players in the game.
+  shout:
+    aliases: []
+    description: Allows you to shout during the game
